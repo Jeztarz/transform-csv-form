@@ -1,0 +1,13 @@
+JSON -> CSV ใช้อันนี้เลยก็ได้ ง่ายดีกดอัพไฟล์json ที่แปลงออกมา
+แล้วกดconvert แล้วโหลดเลยก็ได้
+https://www.convertcsv.com/json-to-csv.htm
+
+
+ถ้าเปิดไฟล์csvแล้วมันเพี้ยนๆ encodeด้วย
+https://www.virtualbadge.io/resources/utf-8-converter-for-csv-files
+ก็ได้เลยนะ
+เพราะตอนเราเขียนnodeแปลงjson -> csvแล้วมันเพี้ยนๆ
+เลยใช้เว็บแปลงเอาง่ายกว่า
+
+
+พอดีเครื่องเราไม่มีexelเลยใช้วิธีนี้แล้วอิมพอร์ตไฟล์เข้าsheetอ่านเอา
